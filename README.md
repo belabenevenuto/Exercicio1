@@ -1,4 +1,4 @@
 # Exercicio1
-Repositório destinado a solução do exercício 1 da lista sequencial de java
+Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
 RA: 322125103 - ISABELA GONÇALVES CARDOSO
